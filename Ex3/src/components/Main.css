@@ -1,0 +1,12 @@
+.Product{padding: 30px;}
+.Images{width: 100%;}
+.ProductName{font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.ShortInfo{font-size: 17px;
+font-weight: 300;
+padding-left: 7px;
+}
+.Price{font-weight: 700; font-size: 30px; padding-top: 10px;}

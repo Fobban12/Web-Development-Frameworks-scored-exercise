@@ -1,0 +1,63 @@
+.NewsAling{display:flex; 
+    width: 51%; 
+    margin: auto; 
+    font-size: 0px; 
+    height: 587px;}
+
+.News{background-color: rgb(255, 255, 255); 
+    padding: 13px;  margin-bottom: 0px; 
+    border-right:rgb(233, 234, 237) solid 90px; 
+    font-size: 30px; 
+    font-weight: 500;;}
+.NewsInfo {background-color: white; 
+    font-size: 23px; 
+    display: flex; 
+    font-weight: 500; 
+    border-right:rgb(233, 234, 237) solid 90px;}
+.NewsInfoTitle{padding-right: 10px; 
+    border-right: thin solid black; 
+    margin-right: 5px; 
+    margin-left: 15px; 
+    color:rgb(0, 81, 141);}
+   
+.CNT {font-size: 15px; 
+    font-weight: 500; 
+    background-color: white; 
+    border-right:rgb(233, 234, 237) solid 90px;
+     padding-top:20px; 
+     padding-left: 18px; 
+     padding-bottom: 20px; }
+
+.SideBar { height: 566px; 
+    width: 300px; 
+    word-wrap: break-word; 
+    background-color:rgb(255, 255, 255)}
+.SideBarTitle {font-size: 20px; 
+    font-weight: 500; 
+    padding:5px ;
+    border-bottom: solid thin black; 
+    margin:7px; }
+.SideBarText { padding-left: 15px; 
+    padding-right: 15px; 
+    padding-bottom: 15px; 
+    font-size: 12px; font-weight: 400; 
+    background-color:rgb(255, 255, 255)}
+.SideBarTextAling {padding-bottom: 10px; 
+    padding-right: 20px; 
+    border-bottom: solid thin rgb(233, 234, 237);}
+.SideBarNumber{color:rgb(65, 150, 164); 
+    font-size: 30px;}
+.SideBarNumberTitle { border-right: thin solid black; 
+    padding-right: 7px; 
+    font-size: 13px;}
+.ShowMoreButton {text-align: center;
+    border: rgb(65, 150, 164) solid 1px;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    margin-top: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:rgb(65, 150, 164);
+}
