@@ -25,7 +25,7 @@ class App extends React.Component {
           Search: <input type="Text" onChange={ this.AfterKeyboardUsage } value={ this.state.Search }/>
         </div>
         <OnScreen
-          Product={ this.state.Products.filter((Product) => Product.name.includes(this.state.Search)) }
+          Product={ this.state.Products.filter((Product) => Product.ProductName.includes(this.state.Search)) }
           />
       </>
     return (output)
